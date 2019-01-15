@@ -29,19 +29,19 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Open Source",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Reading Log Files",
       "keywords": [
       ]
     }
@@ -51,12 +51,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Ruby",
+        "JS / ES6",
+        "PHP"
       ]
     },
     {
@@ -66,8 +63,8 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "JS/ES6",
-        "TI LaunchPad"
+        "AWS",
+        "Rails"
       ]
     }
   ],
@@ -97,7 +94,7 @@
     },
     {
       "company": "Scott's Cheap Flights",
-      "position": "Web Developer",
+      "position": "Web Developer (Contract)",
       "website": "http://www.scottscheapflights.com",
       "startDate": "2017",
       "endDate": "2018",
@@ -112,18 +109,6 @@
     }
   ],
   "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
