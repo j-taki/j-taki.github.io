@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Jeff Takiguchi",
+    "label": "Developer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "jtaki@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://j-taki.github.io",
+    "summary": "I am studying for a B.S. in Management Information Systems in the Shidler Business College at the University of Hawaii. I expect to graduate in Summer, 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "968216",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,29 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "j-taki",
+        "url": "http://github.com/j-taki"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jeff-takiguchi",
+        "url": "https://www.linkedin.com/in/jeff-takiguchi/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
         "Arduino",
         "TI MSP430"
@@ -76,7 +66,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
+        "JS/ES6",
         "TI LaunchPad"
       ]
     }
@@ -84,9 +74,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "MIS (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
