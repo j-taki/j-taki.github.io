@@ -40,6 +40,11 @@
       "keywords": [
       ]
     },
+        {
+      "name": "Design",
+      "keywords": [
+      ]
+    },
     {
       "name": "Reading Log Files",
       "keywords": [
@@ -52,8 +57,9 @@
       "level": "",
       "keywords": [
         "Ruby",
-        "JS / ES6",
+        "JS/ES6",
         "PHP"
+        "HTML5/CSS3"
       ]
     },
     {
