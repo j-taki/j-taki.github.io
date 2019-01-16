@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/phpinder.jpg
 title: PHPinder
-permalink: ''
+permalink: projects/phpinder
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-15
 labels:
