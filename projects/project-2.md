@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scf.png
+image: images/scf.jpg
 title: SCF
 permalink: projects/scf
 # All dates must be YYYY-MM-DD format!
