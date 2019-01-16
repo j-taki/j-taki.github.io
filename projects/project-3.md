@@ -29,4 +29,4 @@ Building out some design standards in Sketch helped build reusable UI components
 <img class="ui image" src="{{ site.baseurl }}/images/yhsketch.jpg">
 
 <hr> 
-this repo is private
+This repo is private
