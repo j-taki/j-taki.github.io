@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/phpinder.jpg
+title: PHPinder
+permalink: ''
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-15
 labels:
