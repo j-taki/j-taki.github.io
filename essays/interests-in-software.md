@@ -9,9 +9,6 @@ labels:
   - Learning
 ---
 
-Third, create a technical essay (approximately 3-4 paragraphs) that discusses your 
-interests in software engineering and what kinds of skills and experiences you hope to develop in future.
-
 # Hello World
 
 I don't have a formal education in Computer Science. I picked up software development though ADD (Anger Driven Development) at work. Sometimes at an older company, you don't get the things you need to do better work, so I learned some basic scripting to automate a lot of processes at work with spreadsheets and data manipulation.  From there, I went more into web development and design. I've picked up a few contracts doing server-side development in the last 2 years.  
