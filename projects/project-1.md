@@ -23,3 +23,16 @@ The application features a fully functional and extensible MVC framework that we
   - User profile allows for changes in user image, bio, preferred work days. 
 
 The two of us utilized [Twitter Bootstrap](https://getbootstrap.com) framework for styling, and [Font Awesome](https://fontawesome.com) for icons.
+
+
+# Top Takeaways
+## Working in a team using Git FeatureBranch Workflow
+My teammate was fairly new to git so I spent the first few days getting him set up on how to use git in the feature branch workflow. This includes making effective commits, working on one feature per branch, pull requests, merge conflicts, and maintaining production and master branches. Taking this time to get into a good workflow allowed us to develop at a faster pace asynchronously. as they say, "slow is smooth, smooth is fast."
+
+## Using a language that I'm new to
+My experience with PHP was limited and introduced only recently. Implementing features using an unfamiliar proogramming languages introduces complexity in that things like execution stack or inheritence might work differently. PHP has always been a language that I made fun of. At least now after using it, it isn't just all unverified jokes.
+
+## Working on a team with 2 people
+This may have been the best part of the experience as working with less people allows for more valuable communication between partners.
+
+
