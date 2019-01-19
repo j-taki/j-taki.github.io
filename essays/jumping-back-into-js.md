@@ -15,7 +15,9 @@ So far, I like Javascript. Even for a language that was [built in literally 10 d
 
 I have some experience with Javascript before, but have not used it in a while. I think that this was a good refresher on using Javascript and on the added ES6 functionality. I think the last time I was using JS, ES6 was still not integrated into web browsers at that time so babel needed to be used to compile back to ES5. The added functinoality of ES6 is just... pure relief. 
 
+<img class="ui image" src="{{ site.baseurl }}/images/ml-tweet.jpg">
 # Semi-Technical Review of Javascript
+
 My experience doesn’t come from traditional low-level software engineering so my understanding of the ECMAScript environment is probably different than others.
 ## Pros
 I think that some features of ES6 that I wasn’t too familiar with before, are very useful like the ability to use classes, arrow functions, and let/const. The AirBnB guide is amazingly useful for code refactoring because it allows me to default to well-read code that can be easily understood. 
