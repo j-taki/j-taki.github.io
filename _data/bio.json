@@ -54,8 +54,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Ruby",
+        "Ruby/Rails",
         "JS/ES6",
+        "React",
         "PHP",
         "HTML5/CSS3"
       ]
@@ -68,7 +69,8 @@
         "Ubuntu",
         "Git/GitHub",
         "AWS",
-        "Rails"
+        "Sketch",
+        "Adobe Photoshop"
       ]
     }
   ],
@@ -107,9 +109,6 @@
         "Built out features of the SCF API using Ruby on Rails.",
         "Worked with 3rd party APIs to add functionality to the system."
       ]
-    }
-  ],
-  
     }
   ],
   "awards": [

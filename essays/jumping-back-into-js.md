@@ -25,7 +25,7 @@ I think that duck-typing can be a blessing or curse depending on the situation. 
 
 # Athletic Programming 
 
-I realized that I’m not great at speed coding in an athletic way. I think I was overthinking the problem at first and then over-planning. In a testing suite environment, the first objective is to write just enough code to make it work. I would think that in a timed environment, it is the same way. I think over time I’ll improve with the time management aspect of athletic programming. Next time I think I need to keep my planning to a minimum before writing any code. 
+I realized that I’m not great at speed coding in an athletic way. I think I was overthinking the problem at first and then over-planning. In a testing suite environment, the first objective is to write just enough code to make it work. I would think that in a timed environment, it is the same way. I think over time I’ll improve with the time management aspect of athletic programming. Next time I think I need to keep my planning to a minimum before writing any code.
 
 # Going forward
 
