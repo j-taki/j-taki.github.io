@@ -99,6 +99,18 @@
       ]
     },
     {
+      "company": "Lemonade Alley",
+      "position": "Executive Producer",
+      "website": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "",
+      "highlights": [
+        "Planned, Produced, and executed financial education for children in Hawaii",
+        "Worked with vendors and volunteers to organize a large event with over 500 attendees"
+      ]
+    },
+    {
       "company": "Scott's Cheap Flights",
       "position": "Web Developer (Contract)",
       "website": "http://www.scottscheapflights.com",
@@ -108,6 +120,17 @@
       "highlights": [
         "Built out features of the SCF API using Ruby on Rails.",
         "Worked with 3rd party APIs to add functionality to the system."
+      ]
+    },
+    {
+      "company": "Tuple",
+      "position": "Web Developer (Contract)",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Work with client on legacy application to work with new business requirements.",
+        "Build AWS monitoring functionality into client's application to monitor credit card fraud."
       ]
     }
   ],
