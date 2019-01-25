@@ -99,15 +99,14 @@
       ]
     },
     {
-      "company": "Lemonade Alley",
-      "position": "Executive Producer",
-      "website": "",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
+      "company": "Tuple",
+      "position": "Web Developer (Contract)",
+      "startDate": "2018",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Planned, Produced, and executed financial education for children in Hawaii",
-        "Worked with vendors and volunteers to organize a large event with over 500 attendees"
+        "Work with client on legacy application to work with new business requirements.",
+        "Build AWS monitoring functionality into client's application to monitor credit card fraud."
       ]
     },
     {
@@ -123,14 +122,15 @@
       ]
     },
     {
-      "company": "Tuple",
-      "position": "Web Developer (Contract)",
-      "startDate": "2018",
-      "endDate": "Present",
+      "company": "Lemonade Alley",
+      "position": "Executive Producer",
+      "website": "",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
       "summary": "",
       "highlights": [
-        "Work with client on legacy application to work with new business requirements.",
-        "Build AWS monitoring functionality into client's application to monitor credit card fraud."
+        "Planned, Produced, and executed financial education for children in Hawaii",
+        "Worked with vendors and volunteers to organize a large event with over 500 attendees"
       ]
     }
   ],
