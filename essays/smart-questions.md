@@ -36,14 +36,14 @@ Software questions are similar. In saying "[I can't install VSCode](https://stac
 
 
 ## The subject line
-> I can't install Visual Studio Code
+> "I can't install Visual Studio Code"
 
 Even though this subject explains the problem, it does not add any context to which specialists or community members might use to identify thought a thought provoking problem.
 
 Even for the tags, the only associated tag is "Visual Studio Code". Not even a mention to running Windows 10.
 
 ## Problem description
-> when I install VScode in Win10 I've got this alert. What's wrong with it?
+> "when I install VScode in Win10 I've got this alert. What's wrong with it?"
 
 > ![dumb-question](https://i.stack.imgur.com/CgHTT.png)
 Literally this person pasted this picture and expects the community to determine a solution. The one credit I will give this guy is that they threw in the operating system name.
@@ -56,7 +56,7 @@ There is no reference to:
 
 ## Result
 The first result is that within 1 day, the moderators on Stack Overflow closed the post for not asking a clear question. They identified that the question was not clear to details regarding the problem nor exactly what they needed.
-> closed as unclear what you're asking
+> "closed as unclear what you're asking"
 
 The question received 1 answer where the answerer posted links to 3 articles on how to solve the very generic issue. They also provided some diagnostic steps as to how to solve it. In the end, the asker does end up solving the issue, but it is not directly related to the answer.
 
@@ -67,7 +67,7 @@ The question received 1 answer where the answerer posted links to 3 articles on 
 This is actually a question I had last week while looking at a peer's code. It's easy to tell that this person was seeking more understanding rather than a simple answer.
 
 ## The subject line
-> What does "use strict" do in Javascript, and what is the reasoning behind it?
+> "What does "use strict" do in Javascript, and what is the reasoning behind it?"
 
 The asker was direct with the question and gave the context of which language it was in. This makes it easy for people browsing SO to identify the topic instantly.
 
@@ -75,20 +75,20 @@ Asker also provides useful tags that pertain to the question like 'javascript', 
 
 ## Problem description
 The asker first gives context as to where they ran into this piece of code.
-> Recently, I ran some of my JavaScript code through Crockford's JSLint, and it gave the following error:
-`Problem at line 1 character 1: Missing "use strict" statement.`
+> "Recently, I ran some of my JavaScript code through Crockford's JSLint, and it gave the following error:
+`Problem at line 1 character 1: Missing "use strict" statement.`"
 
 The asker even linked to the application in which he encountered the error for the community to reproduce it. They explained succinctly the steps they took to find the answer. It shows htey did the research to look for answers.
 > Doing some searching, I realized that some people add "use strict"; into their JavaScript code. Once I added the statement, the error stopped appearing.
 
 The asker then gives context into what they are trying to understand about the topic which was stated in the subject "what is the reasoning behind it?"
 
-> Unfortunately, Google did not reveal much of the history behind this string statement. Certainly it must have something to do with how the JavaScript is interpreted by the browser, but I have no idea what the effect would be.
+> "Unfortunately, Google did not reveal much of the history behind this string statement. Certainly it must have something to do with how the JavaScript is interpreted by the browser, but I have no idea what the effect would be."
 
 The asker describes the goal of his question. He wants understanding into the reasoning and the inner-workings of the language. He explicitly states the things he is looking for.
-1. >So what is "use strict"; all about, what does it imply, and is it still relevant?
+1. >"So what is "use strict"; all about, what does it imply, and is it still relevant?"
 
-2. >Do any of the current browsers respond to the "use strict"; string or is it for future use?
+2. >"Do any of the current browsers respond to the "use strict"; string or is it for future use?"
 
 ## Result
 This question received 25 answers with the top answer earning a 4573 upvote score.
@@ -96,7 +96,7 @@ This question received 25 answers with the top answer earning a 4573 upvote scor
 The top answer links to a useful article about 'strict mode', a blockquote containing the most important part of the article, and examples as to how strict mode is helpful.
 
 They even include extra information as to different use cases for 'use-strict' and personalized help.
-> Also note you can apply "strict mode" to the whole file... Or you can use it only for a specific function (still quoting from John Resig's article):
+> "Also note you can apply "strict mode" to the whole file... Or you can use it only for a specific function (still quoting from John Resig's article):"
 ```
 // Non-strict code...
 
@@ -108,6 +108,6 @@ They even include extra information as to different use cases for 'use-strict' a
 
 // Non-strict code...
 ```
-> Which might be helpful if you have to mix old and new code ;-)
+> "Which might be helpful if you have to mix old and new code ;-)"
 
 Its pretty clear that the quality of this answer is derived from the thoughtfulness of the question asked. I think that because the asker showed that they were interested in gaining understanding, the answer reciprocated in a similar fashion.
