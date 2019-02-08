@@ -11,7 +11,7 @@ labels:
 
 # Javascript & My feelings <3
 
-So far, I like Javascript. Even for a language that was [built in literally 10 days](https://en.wikipedia.org/wiki/JavaScript#History), its pervasiveness into web browser technology makes it so unique to understand. 
+I like Javascript. Even for a language that was [built in literally 10 days](https://en.wikipedia.org/wiki/JavaScript#History), its pervasiveness into web browser technology makes it so unique to understand.
 
 I have some experience with Javascript before, but have not used it in a while. I think that this was a good refresher on using Javascript and on the added ES6 functionality. I think the last time I was using JS, ES6 was still not integrated into web browsers at that time so babel needed to be used to compile back to ES5. The added functinoality of ES6 is just... pure relief. 
 
