@@ -12,6 +12,8 @@ labels:
 # I demand order!
 So here I am writing some javascript or ruby and I'm in the flow of things. As I'm writing, I'm not concerned with writing clean code or design patterns; I just want to make the dang thing work. Really that is the most fun part of it all anyways right? Who even enjoys refactoring? Well, lucky for people like us there are code linters like ESlint and Rubocop. Linters allow you to code and will check your work in real time to make sure you are using best practices in syntax and styling.
 
+![](https://imgs.xkcd.com/comics/code_quality_2.png)
+
 ## But Why
 I too have preferences on how I like to indent and style some parts of my code. I personally like spaces between my argument parentheses so I can see the value names easier. However, Coding standards exist for much more important reasons than to be one person's annoyance. Imagine working on a team of 10 people, and while some of them like tabs, others like spaces. Without the team agreeing to one standard, each line in a file might be subject to different styles depending on who wrote it. So optimistically a team is following the same standards.
 
