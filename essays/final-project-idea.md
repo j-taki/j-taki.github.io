@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-# Overview (including “The problem” and “The solution”)
+# Overview 
 Parking at the university is a growing issue and while we have a large parking lot that services the lower section of the campus, the upper campus is left with either a long walk or to find parking in the residential area. RentalParking is an application that allows two main types of users, parkers and owners. Owners are residents in the local area who can offer up parking stalls to rent to enrolled UH students by listing their open stall and rules similar to airbnb. Renters can serach available listings that meet the criteria and apply/bid for the stall. Once an agreement has been made via electronic contract, a subscription for that stall becomes active and will allow owners to manage stalls and renters as well as send them messages / emails for communication.
 # Mockup page ideas
 * Landing page
