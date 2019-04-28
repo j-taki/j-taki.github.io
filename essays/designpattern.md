@@ -5,7 +5,6 @@ title: "Design Patterns"
 date: 2019-04-7
 labels:
   - Software Engineering
-  - Design Patterns
 ---
 
 # An early pattern
