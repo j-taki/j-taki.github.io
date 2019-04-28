@@ -7,6 +7,7 @@ labels:
   - Software Engineering
 ---
 
+
 # An early pattern
 
 I was just listening to a podcast today about "Zero" and I think that its quite beautiful how the concept of 0 was implemented very much as a design pattern. 
