@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Design Patterns"
-date: 2019-04-7
+date: 2019-04-07
 labels:
   - Software Engineering
 ---
