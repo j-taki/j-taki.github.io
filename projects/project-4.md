@@ -17,7 +17,7 @@ summary: A Meteor/Mongo/React application
 
 Teleskope is a Meteor Javascript application that uses ReactJS on the front end and is backed by Mongo DB.
 
-![teleskope](https://j-taki.github.io/images/teleskope.png)
+<img class="ui medium rounded image" src="../images/teleskope.png">
 
 ## My Contributions
 
@@ -60,7 +60,7 @@ Meteor.methods({
 
 ### Dashboard Notifications
 When a user subscribes to a company, they will now receive notifications for that company on the user Dashboard. 
-![teleskope-notifications](https://j-taki.github.io/images/teleskope-notifications.png)
+<img class="ui medium rounded image" src="../images/teleskope-notifications.png">
 This was accomplished by creating a method for companies to dispatch notifications. `addNotification()` can be called anywhere to push a notification to a company's notifications array.
 When a subscribed user goes to their dashboard, all notifications for subscribed companies populate the news feed in chronological order. 
 By creating 1 meteor method for adding a notification, I can use it in the database callback functions to create a notification on success. 
