@@ -1,24 +1,24 @@
 {
   "basics": {
     "name": "Jeff Takiguchi",
-    "label": "Developer",
-    "picture": "https://j-taki.github.io/images/jeff.jpg",
-    "email": "jtaki@hawaii.edu",
+    "label": "Software Developer",
+    "picture": "https://jtaki.github.io/images/jeff.jpg",
+    "email": "jefftakiguchi@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://j-taki.github.io",
-    "summary": "I'm a business and technology enthusiast from Hawaii. I believe in building meaningful relationships and finding fun, creative ways to add value to my work. I'm interested in software development, system analysis & design, and user experience design.",
+    "website": "https://jtaki.github.io",
+    "summary": "I'm a business and technology enthusiast from Hawaii. I believe in building meaningful relationships and finding fun, creative ways to add value to my work. I work in software development, system analysis & design, and user experience design.",
     "location": {
       "address": "",
-      "postalCode": "968216",
-      "city": "Honolulu",
+      "postalCode": "92610",
+      "city": "Irvine",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "j-taki",
-        "url": "http://github.com/j-taki"
+        "username": "jtaki",
+        "url": "http://github.com/jtaki"
       },
       {
         "network": "linkedin",
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Reading Log Files",
+      "name": "Reading Log Files & Documentation",
       "keywords": [
       ]
     }
