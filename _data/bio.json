@@ -4,7 +4,7 @@
     "label": "Software Developer",
     "picture": "https://jtaki.github.io/images/jeff.jpg",
     "email": "jefftakiguchi@gmail.com",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://jtaki.github.io",
     "summary": "I'm a business and technology enthusiast from Hawaii. I believe in building meaningful relationships and finding fun, creative ways to add value to my work. I work in software development, system analysis & design, and user experience design.",
     "location": {
@@ -12,7 +12,7 @@
       "postalCode": "92610",
       "city": "Irvine",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
@@ -77,7 +77,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "MIS",
+      "area": "Management Information Systems",
       "studyType": "B.S.",
       "endDate": "",
       "gpa": "",
@@ -88,25 +88,43 @@
   "work": [
     {
       "company": "Y. Hata & Co.",
-      "position": "Project Manager",
+      "position": "Enterprise Business Systems Analyst",
       "website": "",
-      "startDate": "2013-08-01",
+      "startDate": "2019",
       "endDate": "Present",
       "summary": "",
       "highlights": [
+        "Planned and facilitated the replacement of a 20 year old ERP system. ",
+        "On the job learning of Microsoft Azure ecosystem and Dynamics.",
+        "Coordinated between each internal department for requirements gathering and rationalization of business processes.",
+        "Developed internal application to manage logistics division using React and Power Platform APIs.",
+        "Created reporting systems using Microsoft business intelligence tools and Dynamics OData APIs for 8 departments."
+      ]
+    },
+    {
+      "company": "Y. Hata & Co.",
+      "position": "Retail Division Project Manager",
+      "website": "",
+      "startDate": "2013-08-01",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
         "Facilitated the concept, design, and implementation of the ChefZone retail project",
-        "Build systems to help manage time and projects, increase in efficiency saving work-time by 50%"
+        "Built systems to help manage time and projects, increase in efficiency saving work-time by 50%",
+        "Worked with management to build systems to improve operational efficiency"
       ]
     },
     {
       "company": "Tuple",
       "position": "Web Developer (Contract)",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
         "Work with client on legacy application to work with new business requirements.",
-        "Build AWS monitoring functionality into client's application to monitor credit card fraud."
+        "Build AWS monitoring functionality into client's application to monitor credit card fraud.",
+        "Learned to Manage and debug client’s production environment in AWS.",
+        "Deployed custom microservices with AWS lambda to improve performance of Rails App."
       ]
     },
     {
@@ -118,7 +136,9 @@
       "summary": "",
       "highlights": [
         "Built out features of the SCF API using Ruby on Rails.",
-        "Worked with 3rd party APIs to add functionality to the system."
+        "Integrated external localization API to reach international customers",
+        "Extended Rails API functionality for consumption by mobile application",
+        "Practiced TDD and code reviews in organized team workflow"
       ]
     },
     {
